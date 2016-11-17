@@ -2,4 +2,8 @@
 
 # Demo 
 
-<img src="http://i.imgur.com/xKkiQqYr.png">
+<a href="http://istorry.github.io/vue/example"><img src="http://i.imgur.com/xKkiQqYr.png"></a>
+
+#Notifications 
+
+<a href="http://istorry.github.io/vue/example"><img src="http://i.imgur.com/JyOOrBs.png></a>
