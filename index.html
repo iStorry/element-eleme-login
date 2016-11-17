@@ -11,31 +11,6 @@
     	body { line-height: 30px; color: #324057; font-family: 'Dosis', 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif; font-weight: 500; font-size: 1em; }
     	h1{ text-align: center; }
     </style>
-    <script src="http://code.jquery.com/jquery-latest.js"></script>
-    <script type="text/javascript">
-	  jQuery(function($) {
-	      var submitActor = null;
-	      var $form = $('#login');
-	      var $submitActors = $form.find('el-button[type=primary]');
-	      $form.submit(function(event) {
-	          if (null === submitActor) {
-	              // If no actor is explicitly clicked, the browser will
-	              // automatically choose the first in source-order
-	              // so we do the same here
-	              submitActor = $submitActors[0];
-	          }
-
-	          console.log(submitActor.name);
-	          // alert(submitActor.name);
-
-	          return false;
-	      });
-
-	      $submitActors.click(function(event) {
-	          submitActor = this;
-	      });
-	  });
-  </script>
 </head>
 <body>
     <div id="app">
