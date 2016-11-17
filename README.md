@@ -2,8 +2,8 @@
 
 # Demo 
 
-<a href="http://istorry.github.io/vue/example"><img src="http://i.imgur.com/xKkiQqYr.png"></a>
+<a href="http://istorry.github.io/vue/example" target="_blank"><img src="http://i.imgur.com/xKkiQqYr.png"></a>
 
-#Notifications 
+# Notifications 
 
-<a href="http://istorry.github.io/vue/example"><img src="http://i.imgur.com/JyOOrBs.png></a>
+<a href="http://istorry.github.io/vue/example" target="_blank"><img src="http://i.imgur.com/JyOOrBs.png"></a>
